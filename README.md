@@ -10,8 +10,8 @@ A **"Hello World"** example. Simple as play a vídeo on the screen.
 
 This example contains **2** projects (or *\*.cpr* files). 
 
-- **v0.3.0**: :(
 - **v0.4.0**: [Download](http://www.telemidia.puc-rio.br/~edcaraujo/projects/nclcomposer/examples/2017.05.09-030-nclcomposer-examples-helloworld.zip).
+- **v0.3.0**: :(
 
 ## Primeiro João
 
@@ -19,8 +19,8 @@ This example are based on those discussed in the book [Programando em NCL 3.0][n
 
 This example contains **10** projects (or *\*.cpr* files).
 
-- **v0.3.0**: [Download](http://www.telemidia.puc-rio.br/~edcaraujo/projects/nclcomposer/examples/2017.05.09-030-nclcomposer-examples-primeirojoao.zip).
 - **v0.4.0**: [Download](http://www.telemidia.puc-rio.br/~edcaraujo/projects/nclcomposer/examples/2017.05.09-040-nclcomposer-examples-primeirojoao.zip).
+- **v0.3.0**: [Download](http://www.telemidia.puc-rio.br/~edcaraujo/projects/nclcomposer/examples/2017.05.09-030-nclcomposer-examples-primeirojoao.zip).
 
 [ncl-site]: http://ncl.org.br/
 [ncl-book]: http://ncl.org.br/programandoncl/
