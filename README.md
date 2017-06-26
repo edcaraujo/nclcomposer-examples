@@ -1,12 +1,12 @@
 # nclcomposer-examples
 
-This project is a list of [NCL Composer][nclcomposer-github] examples. **NCL Composer** is a flexible authoring tool for interactive multimedia applications. If you didn't not install **NCL Composer**, download the last vesion [here][nclcomposer-download].
+This project is a list of [NCL Composer][nclcomposer-github] examples. **NCL Composer** is a flexible authoring tool for interactive multimedia applications. If you did not install **NCL Composer**, download the last vesion [here][nclcomposer-download].
 
-Since some version of **NCL Composer** has some changes in the project file (*\*.cpr*), the examples are updated for every **NCL Composer** version. Remember to checkout your version before download. **NCL Composer** is still in **beta** version. 
+Since some version of **NCL Composer** has some changes in the project file (*\*.cpr*), since we are in **beta**, the examples are updated for every **NCL Composer** version. Remember to checkout your version before download.
 
 ## Hello World
 
-A **"Hello World"** example. Simple as play a vídeo on the screen. 
+A **"Hello World"** example. Simple as play a video on the screen. 
 
 This example contains **2** projects (or *\*.cpr* files). 
 
@@ -15,7 +15,7 @@ This example contains **2** projects (or *\*.cpr* files).
 
 ## Primeiro João
 
-This example are based on those discussed in the book [Programando em NCL 3.0][ncl-book]. The examples uses an animation named **"Primeiro João"**. The animation was developed in the [N.A.D.A][nada-site] (Núcleo de Arte Digital e Animação) from PUC-Rio by André Castelão and tell us the history about why [Garrincha][wikipedia-garrincha] started to naming "João" all his markers (defenders) in football.
+This example are based on those discussed in the book [Programando em NCL 3.0][ncl-book]. It uses an animation called **"Primeiro João"**. This animation was developed in the [N.A.D.A][nada-site] (Núcleo de Arte Digital e Animação) from PUC-Rio by André Castelão, and tell us the history about why [Garrincha][wikipedia-garrincha] started to naming "João" all his markers (defenders) in football.
 
 This example contains **10** projects (or *\*.cpr* files).
 
